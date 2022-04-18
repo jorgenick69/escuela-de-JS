@@ -30,7 +30,7 @@ var articulos = [{
 /*
 ! .filter : nos permite filtrar solo los elementos que deseamos (según ciertos criterios) y devolverlos en un nuevo array.
 ? .map : crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos.
-todo: find 
+
 */
 var articulosFiltrados = articulos.filter(function(articulo) {
 
